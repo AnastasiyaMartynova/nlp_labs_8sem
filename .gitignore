@@ -1,1 +1,4 @@
 venv/
+outputs_cls/
+ner_model/
+mlm/
